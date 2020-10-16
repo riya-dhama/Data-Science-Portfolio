@@ -15,22 +15,22 @@ The repository contains my work done on the Data@ANZ virtual program hosted by I
  
 * Data Analysis and Visualization :
 
-    - <a href="https://github.com/riya-dhama/Data-Science-Portfolio/Projects/tree/main/Credit%20Card%20UseCase"> Application Of Descriptive Analytics in Banking : Credit-Card-Use-Case : </a> By Visualization and Descriptive Statistics finding the major cause of lower spends on the credit card, deep dive and understanding what is the typical spend pattern of the customers in his portfolio & Checking if spend behavior varies across these customer segments 
+    - <a href="https://github.com/riya-dhama/Data-Science-Portfolio/tree/main/Projects/Credit%20Card%20UseCase"> Application Of Descriptive Analytics in Banking : Credit-Card-Use-Case : </a> By Visualization and Descriptive Statistics finding the major cause of lower spends on the credit card, deep dive and understanding what is the typical spend pattern of the customers in his portfolio & Checking if spend behavior varies across these customer segments 
   
 * Machine Learning Case Studies :
 
-   * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/Projects/tree/main/Titanic%20Survival%20Predictions"> Titanic Survival Prediction </a> : 
+   * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/tree/main/Projects/Titanic%20Survival%20Predictions"> Titanic Survival Prediction </a> : 
    Created and Trained  Model which predicts whether a given passenger survived or not. 
       
-   * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/Projects/tree/main/Sentiment%20Analysis/Restaurant%20Reviews"> Restaurant Reviews Analysis </a> :
+   * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/tree/main/Projects/Sentiment%20Analysis/Restaurant%20Reviews"> Restaurant Reviews Analysis </a> :
    Predict whether a review of the restaurant is positive or negative 
    
  * Minor Projects : 
 
-   * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/Projects/tree/main/Diabetes%20Prediction"> Diabetes Prediction using Machine Learning </a> : 
+   * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/tree/main/Projects/Diabetes%20Prediction"> Diabetes Prediction using Machine Learning </a> : 
    The objective of the dataset is to diagnostically predict whether or not a patient has diabetes
       
-   * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/Projects/tree/main/Bike%20Sharing"> Predicting The Count Of Bikes Rented </a> :
+   * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/tree/main/Projects/Bike%20Sharing"> Predicting The Count Of Bikes Rented </a> :
    Created and Trained  Model which predicts the count of Bikes rented
   
   - Data-Sprints/Datathons/Competitions:
@@ -49,13 +49,13 @@ The repository contains my work done on the Data@ANZ virtual program hosted by I
  
  - Practice Challenges : 
 
-   * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/Challenges/tree/master/Boston-Housing"> Boston Housing </a> : 
+   * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/tree/main/Practice%20Challenges/Boston-Housing"> Boston Housing </a> : 
     Predict the median value of owner-occupied homes in 1000 USD's. 
     
-    * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/Challenges/tree/master/Wine%20Quality"> Wine-Quality </a>: 
+    * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/tree/main/Practice%20Challenges/Wine%20Quality"> Wine-Quality </a>: 
     Predict Quality of Red-Wine
     
-    * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/Challenges/tree/master/Survival%20of%20Patients"> Survival of Patients </a>: 
+    * <a href="https://github.com/riya-dhama/Data-Science-Portfolio/tree/main/Practice%20Challenges/Survival%20of%20Patients"> Survival of Patients </a>: 
     Predict the chances of Survival of a Patient after 1 year of treatment
 
 * Earned Badges and Certifications :
